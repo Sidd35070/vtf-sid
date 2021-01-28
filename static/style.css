@@ -48,6 +48,7 @@ body {
   height: 70vh;
   text-align: center;
 }
+
 .sidebar_topic-heading {
   /* fonts  */
   font-size: 3.2rem;
@@ -160,5 +161,12 @@ section {
 
 .ans {
   padding-left: 4rem;
+  color: #417dbe;
+}
+
+.discord-hours {
+  padding: 2.5rem;
+  background-color: white;
+  border-radius: 2.5rem;
   color: #417dbe;
 }
